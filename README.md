@@ -10,10 +10,19 @@
 ```
 x <- rnorm(100)
 ```
+
+繪圖檢查隨機變數是否呈現常態分配   
+```
+hist(x)
+```
+![繪圖結果](./figs/hist.png)
    
 #####2.養成版本控制習慣   
-隨時備份自己的學習進度   
-[Git Bash](http://git-scm.com/downloads)
-Github UI   
-[for Windows](https://windows.github.com/)
+隨時備份自己的學習成果   
+   
+指令式使用介面   
+[Git Bash](http://git-scm.com/downloads)   
+    
+圖像化使用介面 *以你用的OS選擇*   
+[for Windows](https://windows.github.com/)   
 [for Mac](https://mac.github.com/)
